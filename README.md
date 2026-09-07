@@ -2,34 +2,36 @@
 
 # 👋 Hi, I'm Naveena D
 
-### Computer Science & Engineering Student | Software Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;Aspiring+Software+Developer;Java+%7C+Python+%7C+JavaScript;Web+Development+%7C+IoT+%7C+AI;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
 
-💻 Building practical solutions with code, creativity and curiosity.
+<img src="https://komarev.com/ghpvc/?username=naveena-sys&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-I'm a Computer Science & Engineering student passionate about building
-software projects and solving real-world problems.
+🎓 Computer Science & Engineering Student
 
-- 🎓 B.E. Computer Science & Engineering
-- 💻 Interested in Software & Web Development
-- 🤖 Exploring IoT, AI and Data Analytics
-- 🌱 Currently improving my Java, JavaScript and problem-solving skills
-- 🎨 Interested in UI/UX Design and Front-End Development
-- 🤝 Open to learning, collaborating and building meaningful projects
+💻 Aspiring Software Developer
+
+🌱 Currently improving my skills in Java, JavaScript and problem solving
+
+🤖 Interested in IoT, AI, Data Analytics and Web Development
+
+🎨 Interested in UI/UX Design and Front-End Development
+
+🚀 I enjoy building projects that solve real-world problems.
+
+🤝 Always open to learning, collaborating and exploring new technologies.
 
 ---
 
 ## 🎯 My Goal
 
-To continuously improve my technical skills, build useful projects,
-and grow into a skilled software professional.
-
----
+```text
+Learn → Build → Improve → Collaborate → Grow 🚀
 
 ## 🛠️ Tech Stack
 
